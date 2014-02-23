@@ -1,0 +1,3 @@
+[submodule "app/Lib"]
+	path = app/Lib
+	url = git://github.com/tokunagakazuya/ViewPHP-Lib
